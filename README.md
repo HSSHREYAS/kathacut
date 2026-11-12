@@ -11,6 +11,7 @@
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-bundled-007808?logo=ffmpeg&logoColor=white)
 ![Cost](https://img.shields.io/badge/running%20cost-%E2%82%B90-ffc247)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 </div>
 
@@ -261,3 +262,7 @@ See [BUILD_STATUS.md](BUILD_STATUS.md) for the roadmap.
 [Kokoro](https://github.com/thewh1teagle/kokoro-onnx) · [edge-tts](https://github.com/rany2/edge-tts) ·
 [faster-whisper](https://github.com/SYSTRAN/faster-whisper) · [pypdfium2](https://github.com/pypdfium2-team/pypdfium2) ·
 [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
+## License
+
+[MIT](LICENSE). The libraries, models and services KathaCut calls keep their own licences and terms.

@@ -1,0 +1,9 @@
+.venv/
+data/
+.env
+node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+samples/
+*.log
